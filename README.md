@@ -1,6 +1,6 @@
 # Watchtime Leaderboard
 
-## 16/Aug 2024 Watchtime Leaderboard (Sorted)
+## Dec 2024 24h Stream Watchtime Leaderboard
 
 | Username | Watch Time |
 |----------|------------|
