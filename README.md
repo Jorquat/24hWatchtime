@@ -4,7 +4,7 @@
 
 | Username | Watch Time |
 |----------|------------|
-| seen_wonderalex | 24h 0m 7s |
+| seen_wonderalex | 24h 0m 0s |
 | tinychipps | 24h 0m 0s |
 | skibidicold | 24h 0m 0s |
 | clxm1x | 24h 0m 0s |
