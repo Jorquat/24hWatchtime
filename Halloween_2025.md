@@ -1,3 +1,7 @@
+# Watchtime Leaderboard
+
+## Oct 2025 24h Stream Watchtime Leaderboard
+
 | # | User | Watch Time | % of 24 Hours |
 |:-:|:-|:-:|:-:|
 | 1 | creatisbot | 23h 20m 4s | 97.23% |
