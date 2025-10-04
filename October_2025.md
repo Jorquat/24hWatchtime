@@ -1,6 +1,6 @@
 # Watchtime Leaderboard
 
-## Oct 2025 24-Hour Stream Watchtime Leaderboard
+## October 2025 24-Hour Stream Watchtime Leaderboard
 
 | # | User | Watch Time | % of 24 Hours |
 |:-:|:-|:-:|:-:|
